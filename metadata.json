@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Bíblia Sagrada Futurista",
+  "description": "Um aplicativo moderno e minimalista para leitura diária da Bíblia com notificações personalizadas.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
